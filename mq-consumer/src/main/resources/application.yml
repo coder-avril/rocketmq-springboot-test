@@ -1,0 +1,4 @@
+server:
+  port: 7070
+rocketmq:
+  name-server: 192.168.0.10:9876
